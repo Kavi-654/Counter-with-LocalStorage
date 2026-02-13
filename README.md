@@ -60,5 +60,5 @@ This project demonstrates DOM manipulation, event handling, and browser localSto
 Created as a mini JavaScript practice project to strengthen frontend fundamentals.
 
 
-## 📂 Project Structure
+
 
