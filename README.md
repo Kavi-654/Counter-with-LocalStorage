@@ -1,4 +1,4 @@
-# 📌 Number Counter App
+# 📌 Counter-With-LocalStorage App
 
 A simple and interactive **Number Counter Web Application** built using **HTML and Vanilla JavaScript**.  
 This project demonstrates DOM manipulation, event handling, and browser localStorage usage.
